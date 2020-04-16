@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(35, 2, 110);
+ 
+  font-family: monospace;
+  color: #fff;
+}
+
+.profile-pic img {
+  width: 250px;
+  border-radius: 20px;
+}
+
+footer {
+margin-top: 100px;
+ width: 100%;
+ bottom: 0rem;
+ border-top: 1px solid #fff;
+}
+.center {
+    display: block;
+    align-content: center;
+    text-align: center;
+}
+
+table, td {
+  border: 0px solid;
+  text-align: left;
+}
+table {
+    margin: auto;
+}
+td {
+  padding-left: 1rem;
+}
+caption {
+    font-size: 1.2rem;
+    color: rgb(252, 187, 103);
+}
+.summary  {
+    border-top: 1px solid rgb(102, 74, 165);
+    margin: 5% 10%;
+    width: 0% 70%;
+    text-align: left;
+    padding: 20px;
+    border-bottom:  1px solid rgb(102, 74, 165);
+}
+
+section {
+    margin-top: 30px;
+}
